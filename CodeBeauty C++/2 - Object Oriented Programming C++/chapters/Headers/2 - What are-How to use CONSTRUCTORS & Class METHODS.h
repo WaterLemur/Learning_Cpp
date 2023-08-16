@@ -1,0 +1,2 @@
+#pragma once
+void N2_What_are_How_to_use_CONSTRUCTORS_And_Class_METHODS();

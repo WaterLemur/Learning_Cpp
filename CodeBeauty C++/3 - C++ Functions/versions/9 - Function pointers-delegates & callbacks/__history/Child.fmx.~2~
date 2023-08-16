@@ -1,0 +1,35 @@
+object ChildForm: TChildForm
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 268
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object ChildInputField: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Position.X = 120.000000000000000000
+    Position.Y = 40.000000000000000000
+    Size.Width = 353.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object SendMessageToParent: TButton
+    Position.X = 328.000000000000000000
+    Position.Y = 112.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'SendMessageToParent'
+  end
+  object MessageLabel: TLabel
+    Position.X = 104.000000000000000000
+    Position.Y = 200.000000000000000000
+    Text = 'MessageLabel'
+    TabOrder = 2
+  end
+end

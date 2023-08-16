@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/07/07 08:09:03.032,=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit1.cpp</Transaction>
+    <Transaction>2023/07/07 08:09:03.837,=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/07 08:09:46.598,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit1.cpp</Transaction>
+    <Transaction>2023/07/07 08:09:46.598,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit1.h</Transaction>
+    <Transaction>2023/07/07 08:09:46.598,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit1.fmx</Transaction>
+    <Transaction>2023/07/07 08:10:12.292,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.fmx</Transaction>
+    <Transaction>2023/07/07 08:10:12.292,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.cpp</Transaction>
+    <Transaction>2023/07/07 08:10:12.292,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.h</Transaction>
+    <Transaction>2023/07/07 08:10:27.768,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.fmx</Transaction>
+    <Transaction>2023/07/07 08:10:27.768,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.cpp</Transaction>
+    <Transaction>2023/07/07 08:10:27.768,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.h</Transaction>
+    <Transaction>2023/07/07 08:11:41.958,=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.cpp</Transaction>
+    <Transaction>2023/07/07 08:11:49.855,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Child.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.cpp</Transaction>
+    <Transaction>2023/07/07 08:11:49.855,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Child.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.fmx</Transaction>
+    <Transaction>2023/07/07 08:11:49.855,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Child.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Unit2.h</Transaction>
+    <Transaction>2023/07/07 08:19:23.655,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Parent.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.h</Transaction>
+    <Transaction>2023/07/07 08:19:23.655,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Parent.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.fmx</Transaction>
+    <Transaction>2023/07/07 08:19:23.655,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Parent.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Parent.cpp</Transaction>
+    <Transaction>2023/07/07 08:21:12.953,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Child.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Child.cpp</Transaction>
+    <Transaction>2023/07/07 08:21:12.953,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Child.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Child.fmx</Transaction>
+    <Transaction>2023/07/07 08:21:12.953,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Child.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Child.h</Transaction>
+    <Transaction>2023/07/07 08:41:02.775,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Project1PCH1.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/07 08:41:02.883,X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Project1.cbproj=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\_C++ Builder\Project1.cbproj</Transaction>
+    <Transaction>2023/07/07 08:42:28.734,C:\Users\Alice\Documents\pointers last one\Parent.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Parent.h</Transaction>
+    <Transaction>2023/07/07 08:42:28.734,C:\Users\Alice\Documents\pointers last one\Parent.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Parent.fmx</Transaction>
+    <Transaction>2023/07/07 08:42:28.734,C:\Users\Alice\Documents\pointers last one\Parent.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Parent.cpp</Transaction>
+    <Transaction>2023/07/07 08:43:11.312,C:\Users\Alice\Documents\pointers last one\Child.cpp=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Child.cpp</Transaction>
+    <Transaction>2023/07/07 08:43:11.312,C:\Users\Alice\Documents\pointers last one\Child.fmx=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Child.fmx</Transaction>
+    <Transaction>2023/07/07 08:43:11.312,C:\Users\Alice\Documents\pointers last one\Child.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Child.h</Transaction>
+    <Transaction>2023/07/07 08:43:35.378,C:\Users\Alice\Documents\pointers last one\Project1PCH2.h=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/07 08:43:35.598,C:\Users\Alice\Documents\pointers last one\Project1.cbproj=X:\📋🏗📊 Projects\Projects ⚙️💻🔣\_C++\CodeBeauty C++\3 - C++ Functions\pointers last one\Project1.cbproj</Transaction>
+    <Transaction>2023/07/07 08:43:41.347,C:\Users\Alice\Documents\pointers last one\Project1.cbproj=C:\Users\Alice\Documents\pointers last one\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

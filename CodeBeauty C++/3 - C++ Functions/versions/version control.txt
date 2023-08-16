@@ -1,0 +1,5 @@
+C++ Functions
+
+0.7   .............   end of the course
+0.7.1.3.1-b   .....   new input system order
+0.7.1.4.1-a .......   input system

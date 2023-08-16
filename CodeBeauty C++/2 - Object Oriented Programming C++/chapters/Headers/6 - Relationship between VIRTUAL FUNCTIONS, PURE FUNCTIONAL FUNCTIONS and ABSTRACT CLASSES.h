@@ -1,0 +1,2 @@
+#pragma once
+void N6_Relationship_between_VIRTUAL_FUNCTIONS_PURE_VIRTUAL_FUNCTIONS_and_ABSTRACT_CLASSES();
